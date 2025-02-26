@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# memeverse
+MemeVerse is a dynamic, interactive web application built with Next.js and React that allows users to explore, upload, and engage with memes. Key features include a trending meme feed, meme upload with captions, user profiles, a meme leaderboard, and more. The app integrates various API services for meme generation and image upload
+>>>>>>> 0b325b0fb8e8bfa0acd2493966cba1c041d70ea1
